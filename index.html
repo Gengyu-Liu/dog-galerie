@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+	<head> 				  
+		<meta charset="utf-8">	  
+		<title>slideShow galerie</title>
+		<link href="css/showGalerie.css" rel="stylesheet"></link>
+		<script src="https://kit.fontawesome.com/029b79cb8b.js" crossorigin="anonymous"></script>
+	</head>
+
+	<body>	
+		<!-------figure element für die Galerie----------->
+		<!-- <div id="headerDiv"> -->
+			<!-- <h1 id="anzahl">1|20</h1>			 -->
+			<!-- <h1>WUFF WUFF - HUNDE IN DER GALERIE</h1> -->
+		<!-- </div>	 -->
+		<!-- <figure> -->
+			<!-- <div id="imageDiv"> -->
+				<!-- <a id="zuruck">&#10094;</a> -->
+				<!-- <a id="vor">&#10095;</a> -->
+				<!-- <img src="img/pudel3.jpg" alt="pudel"> -->
+			<!-- </div> -->
+			<!-- <figcaption>An elephant at sunset</figcaption> -->
+		<!-- </figure> -->
+		
+		<!-- -----thumbnail element für die Galerie--------- -->
+		<!-- <div id="thumbnail"> -->
+			<!-- <img src="img/hunde1.jpg"> -->
+			<!-- <img src="img/hunde2.jpg"> -->
+			<!-- <img src="img/hunde3.jpg"> -->
+			<!-- <img src="img/hunde4.jpg"> -->
+			<!-- <img src="img/hunde5.jpg"> -->
+			
+			<!-- <img src="img/hunde6.jpg"> -->
+			<!-- <img src="img/hunde7.jpg"> -->
+			<!-- <img src="img/hunde8.jpg"> -->
+			<!-- <img src="img/hunde9.jpg"> -->
+			<!-- <img src="img/hunde10.jpg"> -->
+		<!-- </div> -->
+		
+		
+		<div id="buttonDiv">
+			<button type="button" id="showHideButton">show the Galerie</button>
+			<!-- <button id="diashow"><i class="fas fa-play"></i></button> -->
+			<!-- <button id="searchButton"><i class="fas fa-search"></i></button> -->
+			<!-- <button id="addButton"><i class="fas fa-plus"></i></button> -->
+			<!-- <button type="button" id="updateButton"><i class="fas fa-edit"></i></button> -->
+			<!-- <button id="deleteButton"><i class="fas fa-minus"></i></button> -->
+		</div>
+		<!------------------input field for CRUD----------------->
+		<div id="searchDiv">
+			<label for="searchMapNumber">search map number:</label>
+			<input type="text" id="searchMapNumber">
+			<button id="searchDivButton">search</button>
+		</div>	
+		
+		<div id="addDiv">
+			<label for="addMapName">add map name:</label>
+			<input type="text" id="addMapName">
+			<label for="addCaption">caption:</label>
+			<input type="text" id="addCaption">
+			<label for="addDate">date:</label>
+			<input type="text" id="addDate">
+			<label for="addAutor">autor:</label>
+			<input type="text" id="addAutor">
+			<button id="addDivButton">add</button>
+		</div>
+		
+		<div id="updateDiv">
+			<label for="updateMapNumber">update map number:</label>
+			<input type="text" id="updateMapNumber">
+			<label for="updateMapName">map name:</label>
+			<input type="text" id="updateMapName">
+			<label for="updateCaption">caption:</label>
+			<input type="text" id="updateCaption">
+			<label for="updateDate">date:</label>
+			<input type="text" id="updateDate">
+			<label for="updateAutor">autor:</label>
+			<input type="text" id="updateAutor">
+			<button id="updateDivButton">update</button>
+		</div>
+
+		<div id="deleteDiv">
+			<label for="deleteMapNumber">delete map number:</label>
+			<input type="text" id="deleteMapNumber">
+			<button id="deleteDivButton">delete</button>
+		</div>
+		
+		<script src="js/readBilderJson.js"></script>		
+		<script src="js/showGalerie.js"></script>
+	</body>
+</html>
