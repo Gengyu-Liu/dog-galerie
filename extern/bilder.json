@@ -1,120 +1,124 @@
 {
-	"Hunde":[
+	"Hunde1":[
 		{
-			"map":"img/hunde1.jpg",
+			"map":"hunde1",
 			"caption":"ein Hund lächelt",
 			"date":"2018-11-29",
 			"autor":"https://unsplash.com/@marliesebrandsma"
 		},
 		{
-			"map":"img/hunde2.jpg",
+			"map":"hunde2",
 			"caption":"Australian Shepherd",
 			"date":"2020-04-19",
 			"autor":"https://unsplash.com/@paulinel"
 		},
 		{
-			"map":"img/hunde3.jpg",
+			"map":"hunde3",
 			"caption":"Französische Bulldogge",
 			"date":"2020-03-06",
 			"autor":"https://unsplash.com/@karsten116"
 		},
 		{
-			"map":"img/hunde4.jpg",
+			"map":"hunde4",
 			"caption":"ein baby Hund",
 			"date":"2018-09-17",
 			"autor":"https://unsplash.com/@alvannee"
 		},
 		{
-			"map":"img/hunde5.jpg",
+			"map":"hunde5",
 			"caption":"Ein Hunde mit Blumen",
 			"date":"2017-11-15",
 			"autor":"https://unsplash.com/@marliesebrandsma"
 		},
 		{
-			"map":"img/hunde6.jpg",
+			"map":"hunde6",
 			"caption":"Zwei Hunde läufen",
 			"date":"2019-01-23",
 			"autor":"https://unsplash.com/@alvannee"
 		},
 		{	
-			"map":"img/hunde7.jpg",
+			"map":"hunde7",
 			"caption":"Samojede",
 			"date":"2018-06-19",
 			"autor":"https://unsplash.com/@luipeng"
 		},
 		{	
-			"map":"img/hunde8.jpg",
+			"map":"hunde8",
 			"caption":"Mops",
 			"date":"2018-03-22",
 			"autor":"https://unsplash.com/@sarandywestfall_photo"
 		},		{	
-			"map":"img/hunde9.jpg",
+			"map":"hunde9",
 			"caption":"Shih-Tzu",
 			"date":"2020-04-12",
 			"autor":"https://unsplash.com/@firesmini"
 		},
 		{
-			"map":"img/hunde10.jpg",
+			"map":"hunde10",
 			"caption":"Corgi",
 			"date":"2091-01-03",
 			"autor":"https://unsplash.com/@cyanfoto"
-		},
+		}
+	],
+	"Hunde2":[
 		{
-			"map":"img/hunde11.jpg",
+			"map":"hunde11",
 			"caption":"Hund mit einem Kaffeebecher",
 			"date":"2020-03-30",
 			"autor":"https://unsplash.com/@ciabattespugnose"
 		},
 		{
-			"map":"img/hunde12.jpg",
+			"map":"hunde12",
 			"caption":"Deutscher Schäferhund",
 			"date":"2021-01-06",
 			"autor":"https://unsplash.com/@dustinbowdige"
 		},
 		{
-			"map":"img/hunde13.jpg",
+			"map":"hunde13",
 			"caption":"Alaskan Malamute",
 			"date":"2010-9-15",
 			"autor":"https://unsplash.com/@josephineamaliepaysen"
 		},
 		{
-			"map":"img/hunde14.jpg",
+			"map":"hunde14",
 			"caption":"Cavalier King Charles Spaniel",
 			"date":"2021-2-13",
 			"autor":"https://unsplash.com/@courtneytia"
 		},
 		{
-			"map":"img/hunde15.jpg",
+			"map":"hunde15",
 			"caption":"Pinscher",
 			"date":"2019-01-02",
 			"autor":"https://unsplash.com/@purzlbaum"
 		},
 		{
-			"map":"img/hunde16.jpg",
+			"map":"hunde16",
 			"caption":"Bordere Collie",
 			"date":"2019-05-17",
 			"autor":"https://unsplash.com/@kaspercph"
-		},
+		}
+        ],
+        "Hunde3":[
 		{
-			"map":"img/hunde17.jpg",
+			"map":"hunde17",
 			"caption":"kuscheliger Hund",
 			"date":"2019-01-02",
 			"autor":"https://unsplash.com/@rpnickson"
 		},
 		{
-			"map":"img/hunde18.jpg",
+			"map":"hunde18",
 			"caption":"Dackel",
 			"date":"2019-08-05",
 			"autor":"https://unsplash.com/@jacksondesign"
 		},
 		{
-			"map":"img/hunde19.jpg",
+			"map":"hunde19",
 			"caption":"Dobermann",
 			"date":"2019-04-29",
 			"autor":"https://unsplash.com/@ilbaldii"
 		},
 		{
-			"map":"img/hunde20.jpg",
+			"map":"hunde20",
 			"caption":"Zwergschnauzer",
 			"date":"2020-06-12",
 			"autor":"https://unsplash.com/@theflouffy"
